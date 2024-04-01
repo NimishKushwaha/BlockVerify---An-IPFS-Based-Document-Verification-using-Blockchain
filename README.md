@@ -50,8 +50,22 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - IPFS documentation
 - Truffle documentation
 
-# If You want paid Smiliar Projects DM on Telegram @DevAloshe
-### Payment Method only Crypto Currency
+## Sample Output
+1. Login
+
+2. Homepage
+![image](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/d04ae405-e1e7-4aa5-b1fa-d4babe69f3f5)
+
+   
+2. Making an Admin
+![Screenshot (371)](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/c3bef3ac-0215-432a-82b2-9306b2f63146)
+
+3. Upload a document
+   ![Screenshot (368)](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/13b63fe2-b681-4d4f-a5fa-aa9910a3f5ea)
+![Screenshot (369)](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/3dc0e9de-2a09-4c57-a8c5-bf0758574e3b)
+
+4. Verify a document
+   ![Screenshot (370)](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/5710d5c1-629c-41e5-af57-62c8e970b7ba)
 
 
 
