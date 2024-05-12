@@ -27,8 +27,16 @@ This project aims to create a secure and decentralized system for document verif
 ``cd BlockChain-Based-Document-Verfication-With-IPFS
 npm install``
 
-
-3. Open the application in your browser using Liver Server Extension .
+3. Create a metamask account.
+4. Add a MATIC polygon network.
+5. Load MATIC from https://faucet.polygon.technology/
+6. Open Remix IDE and deploy the smart contract (.sol file) after connecting metamask to the Remix's website.
+7. Copy the smart contract address from the IDE and paste it into the code.
+8. Open the application in your browser using Liver Server Extension.
+9. Connect the website to the metamask.
+10. Create another MATIC polygon network.
+11. One account will make an another account as an admin.
+12. Upload and verify the documents from the admin account.
 
 
 ## Usage
