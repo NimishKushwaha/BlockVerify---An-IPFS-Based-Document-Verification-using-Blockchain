@@ -77,4 +77,17 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
    ![Screenshot (370)](https://github.com/NimishKushwaha/BlockVerify---An-IPFS-Based-Document-Verification-using-Blockchain/assets/128953212/5710d5c1-629c-41e5-af57-62c8e970b7ba)
 
 
+## Contributors
+
+- <img src="https://github.com/NimishKushwaha.png" width="25" height="25" style="border-radius: 5;"> Nimish Kushwaha ([NimishKushwaha](https://github.com/NimishKushwaha))
+<!--- <img src="https://github.com/bikrant07.png" width="25" height="25" style="border-radius: 5;"> Ayush Kushwaha ([bikrant07](https://github.com/bikrant07))
+- <img src="https://github.com/Gungunkhaitan.png" width="25" height="25" style="border-radius: 5;"> Aashutosh Kumar Pandit ([Gungunkhaitan](https://github.com/Gungunkhaitan)) -->
+
+
+## Contact
+
+For questions or inquiries, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com).
+
+Credit: OrioChain
+
 
