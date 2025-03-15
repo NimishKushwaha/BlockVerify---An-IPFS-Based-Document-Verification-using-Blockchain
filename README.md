@@ -88,6 +88,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 For questions or inquiries, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com).
 
-Credit: OrioChain
 
 
